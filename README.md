@@ -22,7 +22,7 @@ Python 3 script written duplicate SNP data after it has been transposed.  This i
 ---
 ## export_selected_regions.py
 
-Python 3 script to take a .txt file with SNPs (either a single chromosome or absolute position in genome) and export SNP data for SNPs in a designated genomic region. 
+Python 3 script to take a .txt file with SNPs (either a single chromosome or absolute position in genome) and export SNP data for SNPs in a designated genomic region.   
 ---
 ## export_snp_names_for_multiple_regions(_v2).py
 
