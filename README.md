@@ -1,6 +1,6 @@
 # old
 
-## 10k_structarray_10.sh
+## 10k_structarray_10.sh  
 
 Slurm script to use structure to infer population structure from SNP data using pre-installed module on cluster.  Runs as an array job for interval 1- max K.  Dependent on mainparams and extraparams files included with structure console.  K value in mainparams will be overwritted by $SLURM_ARRAY_TASK_ID. 
 ---
